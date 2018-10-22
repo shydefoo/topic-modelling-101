@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import pprint
-from base_scraper import BaseScraper
+from scrapers.base_scraper import BaseScraper
 
 class CNAScraper(BaseScraper):
 	@classmethod
