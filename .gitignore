@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 .DS_Store
 processed_docs.pkl
+bow_corpus.pkl
+__pycache__/
